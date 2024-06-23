@@ -14,6 +14,8 @@ We have to create a selling interface for the InstiOLX webpage using HTML and CS
 9. Location
 10. Post Button
 
+Here is the solution --> [Task1Solution](https://github.com/KadariPavani/SummerSchool2024-WebDev-BlockChain/tree/main/Task1Solution)
+
 
 Task-2 :
 
