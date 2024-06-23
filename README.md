@@ -27,4 +27,4 @@ we have to create your own InstiOLX website using figma. The interface should be
 4. atleast three different animations
 5. icons
 
-
+Here is the solution --> [Task2Solution](https://www.figma.com/design/GyTWBLYxEXeHx5ePmwlMJg/InstiOLX?node-id=0-1&t=YIKp9XaIMxAE1yft-1)
